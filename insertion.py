@@ -10,3 +10,6 @@ F insertion_sort(&l)
 V arr = [7, 6, 5, 9, 8, 4, 3, 1, 2, 0]
 insertion_sort(&arr)
 print(arr)
+
+
+
